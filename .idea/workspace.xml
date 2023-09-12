@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c29890f-2ed5-4142-ad57-da342396a04b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP-seminar4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/CreditAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/DebetAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/PersonalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bank/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/homework/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/Apple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hw/Orange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task1/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/CreditAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/DebetAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/PersonalData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/task2/Transaction.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Uy2lEfSvJyz4QgpION39APubTX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c29890f-2ed5-4142-ad57-da342396a04b" name="Changes" comment="" />
+      <created>1693897652157</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693897652157</updated>
+    </task>
+    <servers />
+  </component>
+</project>
